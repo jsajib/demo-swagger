@@ -1,8 +1,5 @@
 package com.jubydull.web.model;
 
-/**
- * Created by bs141 on 2/1/2017.
- */
 public class Greeting {
 
     private long id;
