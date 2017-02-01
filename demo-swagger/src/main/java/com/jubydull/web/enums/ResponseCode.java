@@ -1,8 +1,6 @@
 package com.jubydull.web.enums;
 
-/**
- * Created by bs141 on 2/1/2017.
- */
+
 public enum ResponseCode {
     OPERATION_SUCCESSFUL(100),
     RECORD_NOT_FOUND(101),
