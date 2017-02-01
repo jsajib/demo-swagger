@@ -9,9 +9,6 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.concurrent.atomic.AtomicLong;
 
-/**
- * Created by bs141 on 2/1/2017.
- */
 @Controller
 @RequestMapping(value = "/hello-world")
 public class GrettingController {
